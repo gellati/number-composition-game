@@ -53,6 +53,9 @@ See more on styling by reading the comments in **base_theme.css**
 
 
 ![CSS-Elements](https://cdn.rawgit.com/changty/number-composition/master/CSS-NC.svg)
+![CSS-Elements](CSS-NC.svg)
+
+
 
 ## The Flow 
 Drawn with [Draw.io](http://draw.io) 
